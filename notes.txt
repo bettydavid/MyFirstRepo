@@ -1,1 +1,2 @@
 Hello from Bea!
+Git is actually fun!
