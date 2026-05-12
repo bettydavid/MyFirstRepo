@@ -1,3 +1,2 @@
 Hello from Bea!
 Git is actually fun!
-this is a terrible idea
